@@ -2177,10 +2177,13 @@ section.lazy-placeholder:after {
   color: #fffefe;
 }
 .cid-r8kyKKhC4l H4 {
-  text-align: center;
+  text-align: left;
 }
 .cid-r8kyKKhC4l H2 {
   color: #efefef;
+}
+.cid-r8kyKKhC4l P {
+  text-align: left;
 }
 .cid-r8kfkug7aL .navbar {
   background: #ffffff;
